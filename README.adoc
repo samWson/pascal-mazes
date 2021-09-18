@@ -1,1 +1,5 @@
 = Pascal Mazes
+
+== License
+
+This repository is open source software under the Zero-Clause BSD (0BSD) license. See the LICENSE file for details.
