@@ -1,5 +1,7 @@
 = Pascal Mazes
 
+A collection of maze generating algorithms written in Pascal. Based on the content of the book http://www.mazesforprogrammers.com/[Mazes for Programmers] by Jamis Buck.
+
 == License
 
 This repository is open source software under the Zero-Clause BSD (0BSD) license. See the LICENSE file for details.
